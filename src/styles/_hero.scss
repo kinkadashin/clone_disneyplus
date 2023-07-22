@@ -32,6 +32,7 @@
             justify-content: space-between;
             
             &__combo {
+                list-style: none;
                 width: calc(50% - 12px);
 
                 img {
